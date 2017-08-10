@@ -1,0 +1,80 @@
+#filteren {
+	display: inline-block;
+    margin-left: 2em;
+    padding: 1em 0;
+}
+
+#filteren select {
+	margin-top: 0.1em;
+	padding: 4px 6px;
+	background-color: #fff;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #555555;  
+}
+
+.vereniging {
+	min-height: 50px;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em; 
+}
+
+.image {
+	 display:inline-block;
+	 width: 250px;
+	 float:left;
+	 padding-right: 1em;
+	 max-height: 75px;
+	 overflow-y: hidden;
+}
+
+.image > img {
+	 width: 100px; 
+}
+
+.vernaam {
+	 display:inline-block;
+	 width: 200px;
+}
+
+.verbesch {
+	 display:inline-block;
+	 width: 400px;
+}
+
+strong {
+	color: #333333;
+}
+
+.detail {
+	 display:inline-block; width: 100px;
+}
+
+.btndetails {
+	cursor: pointer;
+	color: #fff;
+	background-color: #cc5200;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	text-align: center;
+    vertical-align: middle;
+	width: 5em;
+	
+	font-size: 14px;
+    line-height: 20px;
+    padding: 4px 12px;
+    margin-bottom: 10px;
+    
+	border: 1px solid #cccccc;
+    border-color: #51a351 #51a351 #387038;
+    border-radius: 25px;
+    box-shadow: 0 1px 2px rgba(255, 255, 255, 0.2);/*h-shadow, v-shadow, blur, color*/
+    
+	
+}
+
+
+
+.btndetails:hover {
+	background-color: #cc6300;
+}

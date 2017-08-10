@@ -1,0 +1,14 @@
+https:// in facebook veld ctln met jquery
+
+wpUserId niet in View Source van een formulier tonen
+thumbnail.php laat geen creatie van een thumbnail toe van een .png of .gif bestand
+* wissen in form contactpersoon per jquery
+thumbnail maken van png en gif
+bij keuze van bestuurslid als cp waarden invullen
+menu kleurem met die van wouter
+adres als footer
+foutmelding in rood
+load wp library
+
+autofocus ctl van forms
+

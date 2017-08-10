@@ -1,0 +1,12 @@
+/*
+Theme Name: Blankslate child
+Template: Blankslate
+Author: RE
+Version: 1.0
+*/
+
+@import url('../blankslate/style.css');
+
+#vrijwilligerswerk, #vrijwilligersloket {
+	width: 1000px;
+}

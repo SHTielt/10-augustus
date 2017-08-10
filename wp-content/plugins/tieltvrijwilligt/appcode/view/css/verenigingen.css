@@ -1,0 +1,86 @@
+#filterdiv {
+	display: inline-block;
+    margin-left: 2em;
+    
+}
+
+#filterdiv select {
+	margin-top: 0.1em;
+	padding: 4px 6px;
+	background-color: #fff;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+    font-size: 14px;
+    color: #555555;  
+}
+
+#verenigingenTabel {
+    position: relative;
+    width: 100%;/*van de container*/
+    height: auto;
+    overflow: auto;/*If overflow is clipped, a scroll-bar should be added to see the rest of the content*/
+    margin: 0 auto 16px;
+    
+}
+
+
+#verenigingenTabel thead th {
+    height: 32px;
+    /*font-weight: bold niet nodig; HTML5 zorgt hier wellicht reeds voor*/
+    text-align: left; /*HTML5 centreert*/
+    vertical-align: middle;
+    padding-left: 0.5em;
+
+}
+
+#verenigingenTabel tbody td {
+    height: 32px;
+    font-size: 16px;
+    line-height: 20px;
+    vertical-align: middle;
+    padding-left: 0.5em;
+}
+
+#verenigingenTabel a:hover {
+	text-decoration: underline;
+}
+
+
+.sh_vernaam {
+	width: 25%;
+}
+/*
+.sh_verlocatie {
+	width: 20%;
+}
+*/
+.sh_verwebsite {
+	width: 25%;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.sh_veractief {
+    width: 5%;
+}
+
+.sh_actie {
+    width: 15%; 
+}
+
+#warningDeletion {
+    display: none;
+}
+
+#main-content div.container {
+	padding-top: 30px;
+}
+
+
+
+
+
+
+
+
+
